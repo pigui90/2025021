@@ -2,7 +2,10 @@
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="model.TipoTarifa"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="model.TipoTransporte"/>
     <fullyQualifiedTypeName name="model.Transporte"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="model.MovimientoCuenta"/>
+    <fullyQualifiedTypeName name="model.Cuenta"/>
+    <fullyQualifiedTypeName name="model.Cliente"/>
 </qualifiedTypeNameHistroy>
